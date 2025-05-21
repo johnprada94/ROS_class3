@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="class3" type="auto_motion.py" name="auto_motion" output="screen"/>
+</launch>
